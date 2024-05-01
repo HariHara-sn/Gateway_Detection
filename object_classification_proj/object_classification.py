@@ -3,7 +3,7 @@ import numpy as np
 
 # this line for Load YOLO
 net = cv2.dnn.readNet(r"C:\Users\ACER\Desktop\pyscript\object_classification_proj\yolov4.weights",  #the r used for directory 
-                      r"C:\Users\ACER\Desktop\pyscript\object_classification_proj\yolov4 (1).cfg")
+                      r"C:\Users\ACER\Desktop\pyscript\object_classification_proj\yolov4 (1).cfg")  #change the path according to your file
 classes = []
 with open(r"C:\Users\ACER\Desktop\pyscript\object_classification_proj\coco.names", "r") as f:
     classes = [line.strip() for line in f.readlines()]
