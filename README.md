@@ -48,6 +48,6 @@ object_classification.py
 
 ## Links:
   ### Download YOLO Weights and Configuration Files
-- [Weights: ](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4.weights)
-- [Config File: ](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
-- [COCO Names File:](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+- [Weights ](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4.weights)
+- [Config File ](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
+- [COCO Names File ](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
