@@ -1,6 +1,6 @@
 # Gate Surveillance Object Classification using OpenCV and YOLO on Raspberry Pi
 ## Overview:
-### This project utilizes OpenCV and the YOLO (You Only Look Once) object detection architecture to classify and monitor objects passing through a gate using recorded video footage. The implementation is optimized for deployment on a Raspberry Pi, making it suitable for real-time video processing applications such as security monitoring and traffic management
+#### This project utilizes OpenCV and the YOLO (You Only Look Once) object detection architecture to classify and monitor objects passing through a gate using recorded video footage. The implementation is optimized for deployment on a Raspberry Pi, making it suitable for real-time video processing applications such as security monitoring and traffic management
 
 ## Installation:
 ### To run the Python code, make sure Python is installed and import the required libraries:
@@ -49,5 +49,5 @@ object_classification.py
 ## Links:
   ### Download YOLO Weights and Configuration Files
 - [Weights: ](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4.weights)
-- [Config File: ]([https://medium.com/@vaishnavisathiyamoorthy/candidate-elimination-algorithm-4c05b344fdac](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg))
+- [Config File: ](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
 - [COCO Names File:](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
